@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Cậu có điều gì muốn gửi tới mình không <3',
     reply: 'Tớ cũng yêu mến cậu nhiều lắm C à <3<3',
     mess: 'Ỏ, mình biết mà, cám ơn cậu nhiều lắm nè! Mình yêu cậu! ',
-    messDesc: 'Vậy thui, quà của mình không có gì đặc săc lắm, chỉ có như thế này thui, mong cậu không chê. Again, may your birthday be as blissful and successful as ever. I really don't know when will i lose my feelings for you but I know for sure that my 17-year-old self always be in love with you! ',
+    messDesc: 'Vậy thui, quà của mình không có gì đặc săc lắm, chỉ có như thế này thui, mong cậu không chê. Again, may your birthday be as blissful and successful as ever. I really dont know when will i lose my feelings for you but I know for sure that my 17-year-old self always be in love with you! ',
     btnAccept: 'Có một bài hát mình đã nghe ngay sau khi mình fall in love với cậu, mỗi khi nghe bài đó mình lại cảm nhận được cảm xúc của mình ngày hôm đó. Cậu có thể nhấn nghe thử nhé. Mình thích bài này lắm á!',
     messLink: 'https://www.youtube.com/watch?v=iggmiF7DNoM' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
