@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Heluu Đạo! Lại là mình, C đây!',
-    introDesc: Hôm nay là sinh nhật cậu nên mình có món quà nho nhỏ này nè. Trước khi bắt đầu cậu trả lời một câu hỏi nho nhỏ của mình nha``,
+    introDesc: 'Hôm nay là sinh nhật cậu nên mình có món quà nho nhỏ này nè. Trước khi bắt đầu cậu trả lời một câu hỏi nho nhỏ của mình nha`,
     btnIntro: ' oki hihi',
     title: 'Cậu cũng yêu tớ đúng khôngg ? ._.',
     desc: 'Cậu mà thoát web thì mình mặc định câu trả lời là CÓ nhé!!',
