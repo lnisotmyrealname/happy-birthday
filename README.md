@@ -8,20 +8,22 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Heluu ! Lại là mình, C đây!',
-    introDesc: `Hôm nay là sinh nhật cậu nên mình có món quà nho nhỏ này nè. Trước khi bắt đàu cậu trả lời một câu hỏi nho nhỏ của mình nha`,
-    btnIntro: 'OKi hihi',
-    title: 'Cậu cũng yêu tớ đúng khôngg ? ._.',
-    desc: 'Cậu mà thoát web thì mình mặc định câu trả lời là CÓ nhé!! ',
-    btnYes: 'Có chớ, tớ yêu cậu nè, Yêu C lắm lun <3 ',
-    btnNo: 'Không có đâu, tớ không yêu cậu >_<',
-    question:Chà chà, !'',
-    btnReply: 'Cậu có điều gì muốn gửi tới mình không <3',
-    reply: 'Tớ cũng yêu mến cậu nhiều lắm C à <3<3',
-    mess: 'Ỏ, mình biết mà, cám ơn cậu nhiều lắm nè! Mình yêu cậu!',
-    messDesc: 'i love you ',
-    btnAccept: 'Có một bài hát mình đã nghe ngay sau khi mình fall in love với cậu, mỗi khi nghe bài đó mình lại cảm nhận được cảm xúc của mình ngày hôm đó. Nếu cậu muốn có thể nhấn nghe thử nhé. Mình thích bài này lắm á!',
-    messLink: 'https://www.youtube.com/watch?v=iggmiF7DNoM' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 ```
 
