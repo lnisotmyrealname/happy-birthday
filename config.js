@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Tớ sẽ nhớ cậu lắm Hạnh ạ, để đền bù tớ sẽ bao cậu ăn sập Hà NỘi luôn',
     mess: 'Ỏ, cậu có thành ý thì tớ cũng không từ chối vậy, chốt nhé! ',
     messDesc: 'Vậy nhé bạn yêu dấu của tớ. Tớp sẽ nhớ cậu nhiều lắm! ',
-    btnAccept: 'Kỉ niệm của chúng ta ở đây nè, click vào để xem đi đĩ.',
-    messLink: 'https://youtube.com/shorts/_hagWv1-8lU?feature=share' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Kỉ niệm của chúng ta ở đây nè, click vào để xem đi đĩ, xem xong ấn vào dấu 3 chấm để xem mô tả và nhớ để lại comment nghe chưa.',
+    messLink: 'https://www.youtube.com/shorts/_hagWv1-8lU' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
