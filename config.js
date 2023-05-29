@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Ỏ, cậu có thành ý thì tớ cũng không từ chối vậy, chốt nhé! ',
     messDesc: 'Vậy nhé bạn yêu dấu của tớ. Tớp sẽ nhớ cậu nhiều lắm! ',
     btnAccept: 'Kỉ niệm của chúng ta ở đây nè, click vào để xem đi đĩ.',
-    messLink: 'https://www.youtube.com/watch?v=iggmiF7DNoM' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://youtube.com/shorts/_hagWv1-8lU?feature=share' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
